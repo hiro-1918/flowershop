@@ -140,3 +140,78 @@ h1 {
     object-fit: cover;
 }
 
+
+
+footer {
+    background-color: rgba(125, 64, 20, 0.842);
+    margin-top: 160px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
+    margin-left: 30px;
+    font-family: serif;
+}
+
+ul {
+    margin-left: 30px;
+    color: #474b3c;
+    font-size: 15px;
+}
+
+@media screen and (max-width: 780px)
+    {
+.woman {
+    width:33%;
+    height:220px;
+    margin-left: 10%;
+}
+
+ul {
+    font-size: 10px;
+    margin-left: 0px;
+}
+
+.name {
+    font-size: 15px;
+}
+
+.message {
+    font-size: 10px;
+}
+
+.pic {
+    width:80%;
+}
+
+.left , .right {
+    left: 200px;
+    top: 170px;
+}
+
+h1 {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+.text {
+    font-size: 10px;
+    color: #474b3c;
+    text-align: center;
+    padding: 25px 10px 10px 10px;
+    background-color: antiquewhite;
+    width: 50%;
+    height: 130px;
+    position: absolute;
+
+}
+
+footer {
+    margin-top:10px;
+}
+
+
+    }
