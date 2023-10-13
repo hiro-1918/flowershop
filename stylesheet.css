@@ -219,6 +219,7 @@ h1 {
     background-color: antiquewhite;
     width: 77%;
     height: 25vw;
+    min-height: 84px;
     position: absolute;
     bottom :4.5vw;
     top:initial;
