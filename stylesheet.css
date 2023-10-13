@@ -68,7 +68,8 @@ h1 {
     background-color: antiquewhite;
     width: 30%;
     min-width: 290px;
-    height: 20vw;
+    height: 14vw;
+    min-height: 154px;
     position: absolute;
     top:17vw;
 }
